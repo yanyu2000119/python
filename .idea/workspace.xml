@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="28ead908-0570-4d66-906d-3bf48149aa4d" name="更改" comment="1" />
+    <list default="true" id="28ead908-0570-4d66-906d-3bf48149aa4d" name="更改" comment="1">
+      <change afterPath="$PROJECT_DIR$/py笔记/day1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py笔记/day2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/py笔记/py笔记.md" beforeDir="false" afterPath="$PROJECT_DIR$/py代码/day1.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +25,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="python" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -44,7 +49,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "py",
     "last_opened_file_path": "/Users/a1/Desktop/python",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -56,6 +61,7 @@
   },
   "keyToStringList": {
     "ChangesTree.GroupingKeys": [
+      "directory"
     ]
   }
 }]]></component>
@@ -96,7 +102,7 @@
       <workItem from="1684753506517" duration="1671000" />
       <workItem from="1685501792318" duration="11028000" />
       <workItem from="1686190160234" duration="2291000" />
-      <workItem from="1686192757794" duration="697000" />
+      <workItem from="1686192757794" duration="1512000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1684123106337</created>
@@ -155,7 +161,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="main" />
+                        <option value="py" />
                       </list>
                     </value>
                   </entry>
