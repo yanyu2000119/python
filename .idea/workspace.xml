@@ -5,9 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="28ead908-0570-4d66-906d-3bf48149aa4d" name="更改" comment="py笔记">
-      <change afterPath="$PROJECT_DIR$/py代码/day2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py代码/day4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/py代码/day1.py" beforeDir="false" afterPath="$PROJECT_DIR$/py代码/day1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/py代码/day2.py" beforeDir="false" afterPath="$PROJECT_DIR$/py代码/day2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/py笔记/day1.md" beforeDir="false" afterPath="$PROJECT_DIR$/py笔记/day1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/py笔记/day2.md" beforeDir="false" afterPath="$PROJECT_DIR$/py笔记/day2.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +110,10 @@
       <workItem from="1686190160234" duration="2291000" />
       <workItem from="1686192757794" duration="10075000" />
       <workItem from="1687874904963" duration="1549000" />
-      <workItem from="1689125291143" duration="630000" />
+      <workItem from="1689125291143" duration="7424000" />
+      <workItem from="1689868324410" duration="5000" />
+      <workItem from="1690001845327" duration="10464000" />
+      <workItem from="1690425365920" duration="7235000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1684123106337</created>
@@ -147,7 +157,21 @@
       <option name="project" value="LOCAL" />
       <updated>1686661415645</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="py笔记">
+      <created>1689128023319</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1689128023319</updated>
+    </task>
+    <task id="LOCAL-00008" summary="py笔记">
+      <created>1689128103547</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1689128103547</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -209,7 +233,10 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/test_py$day1.coverage" NAME="day1 覆盖结果" MODIFIED="1685879887392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py文件编写" />
     <SUITE FILE_PATH="coverage/python$test4.coverage" NAME="test4 覆盖结果" MODIFIED="1684122051216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/day1_py$day4.coverage" NAME="day4 覆盖结果" MODIFIED="1690428055163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py代码" />
+    <SUITE FILE_PATH="coverage/day1_py$day2.coverage" NAME="day2 覆盖结果" MODIFIED="1690010999183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py代码" />
     <SUITE FILE_PATH="coverage/python$day1.coverage" NAME="day1 覆盖结果" MODIFIED="1686230047374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py代码" />
+    <SUITE FILE_PATH="coverage/day2_py$day2.coverage" NAME="day2 覆盖结果" MODIFIED="1689147203165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py代码" />
     <SUITE FILE_PATH="coverage/python$main.coverage" NAME="main 覆盖结果" MODIFIED="1686211800392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/day2_py$day3.coverage" NAME="day3 覆盖结果" MODIFIED="1687875754983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py代码" />
     <SUITE FILE_PATH="coverage/test_py$test.coverage" NAME="test 覆盖结果" MODIFIED="1685589977595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
